@@ -147,8 +147,7 @@ public enum TcOreDic {
     TTTBurger(TcItems.tttBurger),
     morijio(TcItems.morijio),
     melonSalt(TcItems.saltyMelon),
-//    rice(TcItems.rice), TODO
-
+    
     tfCapacitor(ItemTcMaterials.EnumTcMaterialInfo.tfCapacitor.getStack()),
     tfCoil(ItemTcMaterials.EnumTcMaterialInfo.tfCoil.getStack()),
     tfOscillator(ItemTcMaterials.EnumTcMaterialInfo.tfOscillator.getStack()),
@@ -156,9 +155,14 @@ public enum TcOreDic {
     advTofuGem(ItemTcMaterials.EnumTcMaterialInfo.advTofuGem.getStack()),
     activatedTofuGem(ItemTcMaterials.EnumTcMaterialInfo.activatedTofuGem.getStack()),
     activatedHellTofu(ItemTcMaterials.EnumTcMaterialInfo.activatedHellTofu.getStack()),
-
-
+    
+    
     // For Compatibility
+    // item prefix
+    itemSalt(salt),
+    itemStarch(starch),
+    
+    // food
     foodTofuKinu(tofuKinu),
     foodTofu(tofuMomen),
     foodTofuMomen(tofuMomen),
@@ -203,8 +207,10 @@ public enum TcOreDic {
     foodMisoSoup(misoSoup),
     foodTTTBurger(TTTBurger),
     foodMelonSalt(melonSalt),
-//    foodRice(), TODO
-
+    
+    foodSalt(salt),
+    foodStarch(starch),
+    
     seedSoybean(soybeans),
     seedSoybeanHell(soybeansHell),
     seedSesame(sesame),
@@ -213,29 +219,28 @@ public enum TcOreDic {
     cropEdamame(edamame),
 
     gemTofu(tofuGem),
-    gemAdvTofu(advTofuGem)
+    gemAdvTofu(advTofuGem),
+    
+    dustSalt(salt),
+    dustStarch(starch)
     ;
 
     private ItemStack[] items;
 
-    TcOreDic(Object... itemObjects)
-    {
-        this.items = new ItemStack[itemObjects.length];
-        int i = 0;
-        for (Object obj : itemObjects)
-        {
-            ItemStack itemstack = ItemUtils.getItemStack(obj);
-            OreDictionary.registerOre(this.name(), itemstack);
-            this.items[i++] = itemstack;
-        }
-    }
+	TcOreDic(Object... itemObjects) {
+		this.items = new ItemStack[itemObjects.length];
+		int i = 0;
+		for (Object obj : itemObjects) {
+			ItemStack itemstack = ItemUtils.getItemStack(obj);
+			OreDictionary.registerOre(this.name(), itemstack);
+			this.items[i++] = itemstack;
+		}
+	}
 
-    TcOreDic(TcOreDic dic)
-    {
-        for (ItemStack item : dic.items)
-        {
-            OreDictionary.registerOre(this.name(), item);
-        }
-    }
+	TcOreDic(TcOreDic dic) {
+		for (ItemStack item : dic.items) {
+			OreDictionary.registerOre(this.name(), item);
+		}
+	}
 
 }
