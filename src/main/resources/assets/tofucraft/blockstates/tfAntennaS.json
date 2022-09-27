@@ -1,0 +1,8 @@
+{
+    "variants": {
+ 		 "facing=north": { "model": "tofucraft:tfAntennaS" },
+ 		 "facing=south": { "model": "tofucraft:tfAntennaS" },
+ 		 "facing=west": { "model": "tofucraft:tfAntennaS" },
+ 		 "facing=east": { "model": "tofucraft:tfAntennaS" }
+    }
+}

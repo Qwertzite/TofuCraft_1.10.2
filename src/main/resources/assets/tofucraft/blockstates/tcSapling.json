@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "stage=0,variant=apricot": { "model": "tofucraft:sapling_apricot" },
+        "stage=1,variant=apricot": { "model": "tofucraft:sapling_apricot" },
+        "stage=0,variant=tofu": { "model": "tofucraft:sapling_tofu" },
+        "stage=1,variant=tofu": { "model": "tofucraft:sapling_tofu" }
+    }
+}

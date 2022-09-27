@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tofucraft",
+  "name": "TofuCraft-RmEdition",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tsuteto","remiliaMarine"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,10 @@
+{
+	"variants": {
+		 "facing=down": { "model": "tofucraft:blockTofuGrilled_D" },
+ 		 "facing=up": { "model": "tofucraft:blockTofuGrilled_U" },
+ 		 "facing=north": { "model": "tofucraft:blockTofuGrilled_N" },
+ 		 "facing=south": { "model": "tofucraft:blockTofuGrilled_S" },
+ 		 "facing=west": { "model": "tofucraft:blockTofuGrilled_W" },
+ 		 "facing=east": { "model": "tofucraft:blockTofuGrilled_E" }
+	}
+}

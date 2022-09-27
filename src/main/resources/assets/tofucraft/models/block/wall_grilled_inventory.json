@@ -1,0 +1,7 @@
+{
+    "parent": "tofucraft:block/wall_grilled_inventoryModel",
+    "textures": {
+        "wall": "tofucraft:blocks/blockTofuMomen",
+        "upper":"tofucraft:blocks/blockTofuGrilled"
+    }
+}

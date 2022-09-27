@@ -1,0 +1,6 @@
+{
+    "parent": "tofucraft:block/chikuwaPlatform_outer",
+    "textures": {
+        "texture": "tofucraft:blocks/chikuwaPlatform_sideHS_tofu"
+    }
+}

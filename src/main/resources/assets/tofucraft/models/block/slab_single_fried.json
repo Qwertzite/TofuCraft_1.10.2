@@ -1,0 +1,8 @@
+{
+	"parent": "block/half_slab",
+	"textures": {
+		"bottom": "tofucraft:blocks/blockTofuFried",
+		"top": "tofucraft:blocks/blockTofuFried",
+		"side": "tofucraft:blocks/blockTofuFried"
+	}
+}

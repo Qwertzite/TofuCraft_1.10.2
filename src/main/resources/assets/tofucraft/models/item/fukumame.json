@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tofucraft:items/fukumame"
+    },
+	"overrides": [
+        { "predicate": { "empty": 0.0 }, "model": "tofucraft:item/fukumame_filled" },
+        { "predicate": { "empty": 1.0 }, "model": "tofucraft:item/fukumame_empty" }
+    ]
+}

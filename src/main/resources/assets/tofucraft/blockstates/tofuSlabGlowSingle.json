@@ -1,0 +1,5 @@
+{	"variants": {
+		"half=bottom,variant=glow"   : { "model": "tofucraft:slab_single_glow" },
+        "half=top,variant=glow"      : { "model": "tofucraft:slab_single_glow_upper" }
+	}
+}

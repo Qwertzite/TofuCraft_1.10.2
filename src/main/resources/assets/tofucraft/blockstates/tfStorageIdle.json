@@ -1,0 +1,8 @@
+{
+	"variants": {
+ 		 "facing=north": { "model": "tofucraft:tfStorageIdle" },
+        "facing=south": { "model": "tofucraft:tfStorageIdle", "y": 180 },
+        "facing=west":  { "model": "tofucraft:tfStorageIdle", "y": 270 },
+        "facing=east":  { "model": "tofucraft:tfStorageIdle", "y": 90 }
+	}
+}

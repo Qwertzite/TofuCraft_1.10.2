@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "tofucraft:blocks/tfMachine_side",
+        "front": "tofucraft:blocks/tfMachineCase_front",
+        "side": "tofucraft:blocks/tfMachine_side"
+    }
+}

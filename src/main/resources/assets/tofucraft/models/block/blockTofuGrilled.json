@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_directional",
+    "textures": {
+        "particle": "tofucraft:blocks/blockTofuGrilled",
+        "down": "tofucraft:blocks/blockTofuMomen",
+        "up": "tofucraft:blocks/blockTofuMomen",
+        "north": "tofucraft:blocks/blockTofuMomen",
+        "east": "tofucraft:blocks/blockTofuMomen",
+        "south": "tofucraft:blocks/blockTofuMomen",
+        "west": "tofucraft:blocks/blockTofuMomen"
+    }
+}

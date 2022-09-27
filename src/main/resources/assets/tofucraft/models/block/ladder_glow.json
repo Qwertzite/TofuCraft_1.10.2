@@ -1,0 +1,6 @@
+{
+    "parent": "tofucraft:block/ladder",
+    "textures": {
+        "texture": "tofucraft:blocks/tofuLadder_glow"
+    }
+}

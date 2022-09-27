@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "tofucraft:blocks/tofuCake_side",
+        "bottom": "tofucraft:blocks/tofuCake_bottom",
+        "top": "tofucraft:blocks/tofuCake_top",
+        "side": "tofucraft:blocks/tofuCake_side",
+        "inside": "tofucraft:blocks/tofuCake_inner"
+    },
+    "elements": [
+        {   "from": [ 9, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"tofubugle": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "tofucraft:tofubugle1",
+				"stream": true
+			},{
+				"name": "tofucraft:tofubugle2",
+				"stream": true
+			}
+		]
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "tofucraft:blocks/saltFurnace_top",
+        "front": "tofucraft:blocks/saltFurnace_front",
+        "side": "tofucraft:blocks/saltFurnace_side"
+    }
+}

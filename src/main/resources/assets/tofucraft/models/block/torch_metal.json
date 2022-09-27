@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch",
+    "textures": {
+        "torch": "tofucraft:blocks/tofuTorch_metal"
+    }
+}

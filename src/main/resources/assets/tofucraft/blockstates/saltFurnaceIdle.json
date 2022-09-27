@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tofucraft:saltFurnaceIdle" },
+        "facing=south": { "model": "tofucraft:saltFurnaceIdle", "y": 180 },
+        "facing=west":  { "model": "tofucraft:saltFurnaceIdle", "y": 270 },
+        "facing=east":  { "model": "tofucraft:saltFurnaceIdle", "y": 90 }
+    }
+}

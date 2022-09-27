@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tofucraft:ladder_miso" },
+        "facing=east":  { "model": "tofucraft:ladder_miso", "y": 90 },
+        "facing=south": { "model": "tofucraft:ladder_miso", "y": 180 },
+        "facing=west":  { "model": "tofucraft:ladder_miso", "y": 270 }
+    }
+}

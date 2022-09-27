@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "meta=0": { "model": "tofucraft:blockLeek" },
+        "meta=1": { "model": "tofucraft:blockLeek" },
+        "meta=2": { "model": "tofucraft:blockLeek" },
+        "meta=3": { "model": "tofucraft:blockLeek" },
+        "meta=4": { "model": "tofucraft:blockLeek" },
+        "meta=5": { "model": "tofucraft:blockLeek" },
+        "meta=6": { "model": "tofucraft:blockLeek" },
+        "meta=7": { "model": "tofucraft:blockLeek" },
+        "meta=8": { "model": "tofucraft:blockLeek" }
+    }
+}

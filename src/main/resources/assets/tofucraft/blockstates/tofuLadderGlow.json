@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tofucraft:ladder_glow" },
+        "facing=east":  { "model": "tofucraft:ladder_glow", "y": 90 },
+        "facing=south": { "model": "tofucraft:ladder_glow", "y": 180 },
+        "facing=west":  { "model": "tofucraft:ladder_glow", "y": 270 }
+    }
+}

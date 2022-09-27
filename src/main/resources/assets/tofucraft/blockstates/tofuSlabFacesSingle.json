@@ -1,0 +1,5 @@
+{	"variants": {
+		"half=bottom,variant=grilled"   : { "model": "tofucraft:slab_single_grilled" },
+        "half=top,variant=grilled"      : { "model": "tofucraft:slab_single_grilled_upper" }
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "drainstep=0": { "model": "tofucraft:blockTofuMomen" },
+        "drainstep=1": { "model": "tofucraft:blockTofuMomen" },
+        "drainstep=2": { "model": "tofucraft:blockTofuMomen" },
+        "drainstep=3": { "model": "tofucraft:blockTofuMomen" },
+        "drainstep=4": { "model": "tofucraft:blockTofuMomen" },
+        "drainstep=5": { "model": "tofucraft:blockTofuMomen" },
+        "drainstep=6": { "model": "tofucraft:blockTofuMomen" },
+        "drainstep=7": { "model": "tofucraft:blockTofuMomen" }
+    }
+}

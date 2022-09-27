@@ -1,0 +1,6 @@
+{
+    "parent": "tofucraft:item/zundaBow",
+    "textures": {
+        "layer0": "tofucraft:items/zundaBow_zunda_pull_0"
+    }
+}

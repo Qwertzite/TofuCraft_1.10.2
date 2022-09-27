@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch_wall",
+    "textures": {
+        "torch": "tofucraft:blocks/tofuTorch_sesame"
+    }
+}

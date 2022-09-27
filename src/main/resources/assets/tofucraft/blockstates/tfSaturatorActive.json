@@ -1,0 +1,8 @@
+{
+	"variants": {
+ 		 "facing=north": { "model": "tofucraft:tfSaturatorActive" },
+        "facing=south": { "model": "tofucraft:tfSaturatorActive", "y": 180 },
+        "facing=west":  { "model": "tofucraft:tfSaturatorActive", "y": 270 },
+        "facing=east":  { "model": "tofucraft:tfSaturatorActive", "y": 90 }
+	}
+}

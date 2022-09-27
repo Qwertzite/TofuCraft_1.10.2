@@ -1,0 +1,13 @@
+{
+    "variants":
+	{
+		"variant=kinu"   : { "model": "tofucraft:blockTofuKinu" },
+		"variant=momen"  : { "model": "tofucraft:blockTofuMomen" },
+		"variant=ishi"   : { "model": "tofucraft:blockTofuIshi" },
+		"variant=metal"  : { "model": "tofucraft:blockTofuMetal" },
+		"variant=dried"  : { "model": "tofucraft:blockTofuDried" },
+		"variant=friedpouch": { "model": "tofucraft:blockTofuFriedPouch" },
+		"variant=fried"  : { "model": "tofucraft:blockTofuFried" },
+		"variant=egg"    : { "model": "tofucraft:blockTofuEgg" }
+	}
+}

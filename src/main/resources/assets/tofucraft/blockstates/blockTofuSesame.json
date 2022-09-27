@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "drainstep=0": { "model": "tofucraft:blockTofuSesame" },
+        "drainstep=1": { "model": "tofucraft:blockTofuSesame" },
+        "drainstep=2": { "model": "tofucraft:blockTofuSesame" },
+        "drainstep=3": { "model": "tofucraft:blockTofuSesame" },
+        "drainstep=4": { "model": "tofucraft:blockTofuSesame" },
+        "drainstep=5": { "model": "tofucraft:blockTofuSesame" },
+        "drainstep=6": { "model": "tofucraft:blockTofuSesame" },
+        "drainstep=7": { "model": "tofucraft:blockTofuSesame" }
+    }
+}

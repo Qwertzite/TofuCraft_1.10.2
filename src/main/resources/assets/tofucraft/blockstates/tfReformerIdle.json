@@ -1,0 +1,20 @@
+{
+	"variants": {
+ 		"facing=north,model=simple,no_drop=true": { "model": "tofucraft:tfReformerIdle_simple" },
+ 		"facing=north,model=simple,no_drop=false": { "model": "tofucraft:tfReformerIdle_simple" },
+ 		"facing=north,model=mix,no_drop=true": { "model": "tofucraft:tfReformerIdle_mix" },
+ 		"facing=north,model=mix,no_drop=false": { "model": "tofucraft:tfReformerIdle_mix" },
+        "facing=south,model=simple,no_drop=true": { "model": "tofucraft:tfReformerIdle_simple", "y": 180 },
+        "facing=south,model=simple,no_drop=false": { "model": "tofucraft:tfReformerIdle_simple", "y": 180 },
+        "facing=south,model=mix,no_drop=true": { "model": "tofucraft:tfReformerIdle_mix", "y": 180 },
+        "facing=south,model=mix,no_drop=false": { "model": "tofucraft:tfReformerIdle_mix", "y": 180 },
+        "facing=west,model=simple,no_drop=true":  { "model": "tofucraft:tfReformerIdle_simple", "y": 270 },
+        "facing=west,model=simple,no_drop=false":  { "model": "tofucraft:tfReformerIdle_simple", "y": 270 },
+        "facing=west,model=mix,no_drop=true":  { "model": "tofucraft:tfReformerIdle_mix", "y": 270 },
+        "facing=west,model=mix,no_drop=false":  { "model": "tofucraft:tfReformerIdle_mix", "y": 270 },
+        "facing=east,model=simple,no_drop=true":  { "model": "tofucraft:tfReformerIdle_simple", "y": 90 },
+        "facing=east,model=simple,no_drop=false":  { "model": "tofucraft:tfReformerIdle_simple", "y": 90 },
+        "facing=east,model=mix,no_drop=true":  { "model": "tofucraft:tfReformerIdle_mix", "y": 90 },
+        "facing=east,model=mix,no_drop=false":  { "model": "tofucraft:tfReformerIdle_mix", "y": 90 }
+	}
+}

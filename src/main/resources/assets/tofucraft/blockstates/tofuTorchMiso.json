@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up": { "model": "tofucraft:torch_miso" },
+        "facing=east": { "model": "tofucraft:torch_miso_wall" },
+        "facing=south": { "model": "tofucraft:torch_miso_wall", "y": 90 },
+        "facing=west": { "model": "tofucraft:torch_miso_wall", "y": 180 },
+        "facing=north": { "model": "tofucraft:torch_miso_wall", "y": 270 }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "variants":
+	{
+		"variant=annin"  : { "model": "tofucraft:blockTofuAnnin" },
+		"variant=sesame" : { "model": "tofucraft:blockTofuSesame" },
+		"variant=zunda"  : { "model": "tofucraft:blockTofuZunda" },
+		"variant=strawberry": { "model": "tofucraft:blockTofuStrawberry" },
+		"variant=hell"   : { "model": "tofucraft:blockTofuHell" },
+		"variant=diamond": { "model": "tofucraft:blockTofuDiamond" },
+		"variant=miso"   : { "model": "tofucraft:blockTofuMiso" }
+	}
+}

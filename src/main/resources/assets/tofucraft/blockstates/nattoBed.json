@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "step=0": { "model": "tofucraft:nattoBed" },
+        "step=1": { "model": "tofucraft:nattoBed" },
+        "step=2": { "model": "tofucraft:nattoBed" },
+        "step=3": { "model": "tofucraft:nattoBed" },
+        "step=4": { "model": "tofucraft:nattoBed" },
+        "step=5": { "model": "tofucraft:nattoBed" },
+        "step=6": { "model": "tofucraft:nattoBed" },
+        "step=7": { "model": "tofucraft:nattoBed" }
+    }
+}

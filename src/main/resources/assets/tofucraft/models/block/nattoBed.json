@@ -1,0 +1,8 @@
+{
+    "parent": "tofucraft:block/blockBarrelModel",
+    "textures": {
+        "top": "tofucraft:blocks/nattoBed_top",
+        "bottom": "tofucraft:blocks/nattoBed_side",
+        "side": "tofucraft:blocks/nattoBed_side"
+    }
+}

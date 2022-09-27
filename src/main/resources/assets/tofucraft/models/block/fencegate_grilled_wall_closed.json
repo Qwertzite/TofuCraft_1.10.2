@@ -1,0 +1,7 @@
+{
+    "parent": "tofucraft:block/fencegate_sided_wall_closed",
+    "textures": {
+        "texture": "tofucraft:blocks/blockTofuMomen",
+        "upper": "tofucraft:blocks/blockTofuGrilled"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants":
+	{
+		"variant=grilled"   : { "model": "tofucraft:blockTofuGrilled_U" }
+	}
+}

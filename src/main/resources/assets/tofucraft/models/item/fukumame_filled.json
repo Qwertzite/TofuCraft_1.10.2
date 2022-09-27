@@ -1,0 +1,6 @@
+{
+    "parent": "tofucraft:item/fukumame",
+    "textures": {
+        "layer0": "tofucraft:items/fukumame"
+    }
+}

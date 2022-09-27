@@ -1,0 +1,6 @@
+{
+    "parent": "tofucraft:block/blockTofuGrilled",
+    "textures": {
+        "down": "tofucraft:blocks/blockTofuGrilled"
+    }
+}

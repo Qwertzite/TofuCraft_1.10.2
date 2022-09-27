@@ -1,0 +1,6 @@
+{
+    "parent": "tofucraft:block/null",
+    "textures": {
+        "particle": "tofucraft:items/morijio"
+    }
+}

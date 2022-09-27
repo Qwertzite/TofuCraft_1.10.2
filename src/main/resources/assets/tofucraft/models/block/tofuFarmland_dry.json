@@ -1,0 +1,8 @@
+{
+    "parent": "block/farmland",
+    "textures": {
+        "particle": "tofucraft:blocks/blockTofuMomen",
+        "dirt": "tofucraft:blocks/blockTofuMomen",
+        "top": "tofucraft:blocks/tofuFarmland_dry"
+    }
+}

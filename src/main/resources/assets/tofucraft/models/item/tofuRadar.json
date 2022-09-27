@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tofucraft:items/tofuRadar"
+    },
+	"overrides": [
+        { "predicate": { "scanresult":-1.0 }, "model": "tofucraft:item/tofuRadar_fail" },
+        { "predicate": { "scanresult": 0.0 }, "model": "tofucraft:item/tofuRadar_idle" },
+        { "predicate": { "scanresult": 1.0 }, "model": "tofucraft:item/tofuRadar_ok" }
+    ]
+}

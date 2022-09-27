@@ -1,0 +1,7 @@
+{
+    "parent": "tofucraft:block/chikuwaPlatform_innerModel",
+    "textures": {
+        "tip": "tofucraft:blocks/chikuwaPlatform_tip",
+        "inner": "tofucraft:blocks/chikuwaPlatform_inner"
+    }
+}

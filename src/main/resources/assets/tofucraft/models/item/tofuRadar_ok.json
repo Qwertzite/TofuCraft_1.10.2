@@ -1,0 +1,6 @@
+{
+    "parent": "tofucraft:item/tofuRadar",
+    "textures": {
+        "layer0": "tofucraft:items/tofuRadar_ok"
+    }
+}

@@ -1,0 +1,17 @@
+{	"variants": {
+		"half=bottom,variant=annin"  : { "model": "tofucraft:slab_single_annin" },
+        "half=top,variant=annin"     : { "model": "tofucraft:slab_single_annin_upper" },
+		"half=bottom,variant=sesame" : { "model": "tofucraft:slab_single_sesame" },
+        "half=top,variant=sesame"    : { "model": "tofucraft:slab_single_sesame_upper" },
+		"half=bottom,variant=zunda"  : { "model": "tofucraft:slab_single_zunda" },
+        "half=top,variant=zunda"     : { "model": "tofucraft:slab_single_zunda_upper" },
+		"half=bottom,variant=strawberry": { "model": "tofucraft:slab_single_strawberry" },
+        "half=top,variant=strawberry"   : { "model": "tofucraft:slab_single_strawberry_upper" },
+		"half=bottom,variant=hell"   : { "model": "tofucraft:slab_single_hell" },
+        "half=top,variant=hell"      : { "model": "tofucraft:slab_single_hell_upper" },
+		"half=bottom,variant=diamond": { "model": "tofucraft:slab_single_diamond" },
+        "half=top,variant=diamond"   : { "model": "tofucraft:slab_single_diamond_upper" },
+		"half=bottom,variant=miso"   : { "model": "tofucraft:slab_single_miso" },
+        "half=top,variant=miso"      : { "model": "tofucraft:slab_single_miso_upper" }
+	}
+}

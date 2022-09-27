@@ -1,0 +1,8 @@
+{
+	"variants": {
+ 		 "facing=north": { "model": "tofucraft:tfCondenserIdle" },
+        "facing=south": { "model": "tofucraft:tfCondenserIdle", "y": 180 },
+        "facing=west":  { "model": "tofucraft:tfCondenserIdle", "y": 270 },
+        "facing=east":  { "model": "tofucraft:tfCondenserIdle", "y": 90 }
+	}
+}

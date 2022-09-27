@@ -1,0 +1,24 @@
+# exclude all
+/*
+
+
+# source
+!src/
+
+
+# gradle
+!gradle/
+!build.gradle
+!gradle.properties
+!gradlew
+!gradlew.bat
+
+
+# git
+!.gitignore
+
+
+# exclude
+Thumbs.db
+
+
